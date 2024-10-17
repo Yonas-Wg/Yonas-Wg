@@ -15,11 +15,12 @@
     <img width="12" /></p>
 
 
-<div style="display: flex; justify-content: center; gap: 80px; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonas-Wg&theme=tokyonight&hide_border=false" alt="yonas-wg" />
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas-Wg&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="yonas-wg" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="yonas-wg" />
 </div>
 
-<p style="text-align: center; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="yonas-wg" />
+<p style="text-align: center; margin-top: 60px;">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonas-Wg&theme=tokyonight&hide_border=false" alt="yonas-wg" />
 </p>
