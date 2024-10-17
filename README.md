@@ -14,4 +14,12 @@
     <img width="12" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
     <img width="12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonas-wg&" alt="yonas-wg" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="yonas-wg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yonas-Wg&theme=tokyonight&hide_border=false" alt="yonas-wg" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas-Wg&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="yonas-wg" /></p>
+
+
+
+
