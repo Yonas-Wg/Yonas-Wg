@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, I'm Yonas</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">
+  <span style="display: inline-block; animation: typing 2s steps(20, end), blink-caret 0.5s step-end infinite;">
+    A passionate frontend developer
+  </span>
+</h3>
+
+<style>
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+
+  @keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: black; }
+  }
+</style>
+
 
 - 📫 How to reach me **yoniman.wg@gmail.com**
 
