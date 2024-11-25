@@ -22,7 +22,7 @@
 
 <h3 align="left">Github Status:</h3>
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="yonas-wg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&theme=sea&show_icons=true&hide_border=true&count_private=true" alt="yonas-wg" />
 </div>
 
 <h3 align="left">Streak Status:</h3>
