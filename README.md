@@ -17,18 +17,18 @@
 
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas-Wg&theme=sea&show_icons=true&hide_border=true&layout=compact" alt="yonas-wg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas-Wg&theme=python-dark&show_icons=true&hide_border=true&layout=compact" alt="yonas-wg" />
 </div>
 
 <h3 align="left">Github Status:</h3>
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&theme=sea&show_icons=true&hide_border=true&count_private=true" alt="yonas-wg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&theme=python-dark&show_icons=true&hide_border=true&count_private=true" alt="yonas-wg" />
 </div>
 
 <h3 align="left">Streak Status:</h3>
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Yonas-Wg&theme=sea" alt="GitHub Streak for Yonas-Wg" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Yonas-Wg&theme=python-dark" alt="GitHub Streak for Yonas-Wg" />
   </a>
 </div>
 
