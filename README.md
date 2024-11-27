@@ -25,7 +25,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&theme=github_dark&show_icons=true&hide_border=false&count_private=true" 
     alt="yonas-wg" 
-    style="width: 300px; height: auto;" 
+    style="width: 400px; height: auto;" 
   />
 </div>
 
