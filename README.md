@@ -26,21 +26,18 @@
 </div>
 
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <h3>Status:</h3>
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Yonas-Wg&theme=python-dark" 
-           alt="GitHub Streak for Yonas-Wg" 
-           style="width: 350px; height: auto;" />
-    </a>
-  </div>
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
+  <h3 style="margin: 0;">Status:</h3>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Yonas-Wg&theme=python-dark" 
+         alt="GitHub Streak for Yonas-Wg" 
+         style="width: 350px; height: auto;" />
+  </a>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&theme=github_dark&show_icons=true&hide_border=false&count_private=true" 
     alt="yonas-wg" 
     style="width: 340px; height: auto;" 
   />
 </div>
-
 
 
