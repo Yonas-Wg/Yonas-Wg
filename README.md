@@ -35,7 +35,7 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Yonas-Wg&theme=python-dark" 
          alt="GitHub Streak for Yonas-Wg" 
-         style="width: 400px; height: auto;" />
+         style="width: 350px; height: auto;" />
   </a>
 </div>
 
