@@ -26,7 +26,7 @@
 </div>
 
 
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
+<div style="display: flex; align-items: center; gap: 40px; flex-wrap: nowrap;">
   <h3 style="margin: 0;">Status:</h3>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Yonas-Wg&theme=python-dark" 
