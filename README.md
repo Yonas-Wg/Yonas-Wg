@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yonas</h1>
-<h3 align="center">A Passionate Frontend Heavy Fullstack Developer</h3>
+<h3 align="center">A Passionate Frontend Heavy Fullstack Developer</h3> 
 
 
 - 📫 How to reach me **yoniman.wg@gmail.com** 
