@@ -63,6 +63,19 @@
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
   </a>
+ <a href="https://slack.com/" target="_blank" rel="noreferrer">
+    <img src="https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png" alt="slack" width="40" height="40" />
+  </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" />
+  </a>
+<a href="mailto:example@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/512px-Gmail_Icon.png" alt="gmail" width="40" height="40" />
+</a>
+
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
