@@ -25,13 +25,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="50" height="50" />
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="nextjs" width="40" height="40" />
+  <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="nextjs" width="50" height="50" />
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40" />
+  <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="50" height="50" />
 </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
