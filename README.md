@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="50" height="50" />
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="55" height="55" />
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="nextjs" width="50" height="50" />
