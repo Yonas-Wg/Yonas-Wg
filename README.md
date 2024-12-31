@@ -31,7 +31,7 @@
   <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="nextjs" width="50" height="50" />
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="50" height="50" />
+  <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="55" height="55" />
 </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
