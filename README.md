@@ -112,7 +112,7 @@
 </div>
 
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
+<h3 align="left">GitHub Trophies:</h3>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
   <img src="https://github-profile-trophy.vercel.app/?username=Yonas-Wg&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
