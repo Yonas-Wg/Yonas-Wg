@@ -50,9 +50,7 @@
 <h3 align="center">GitHub Trophies</h3>
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Yonas-Wg&theme=tokyonight&no-frame=true&row=1&margin-w=15" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yonas-Wg&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ---
