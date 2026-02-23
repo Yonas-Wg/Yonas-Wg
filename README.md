@@ -29,12 +29,15 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&show_icons=true&theme=tokyonight&count_private=true" 
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
+    height="165"
   />
+</p>
+
+<p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Yonas-Wg&theme=tokyonight" 
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas-Wg&layout=compact&theme=radical&langs_count=8" 
+    height="165"
   />
 </p>
 
