@@ -25,26 +25,19 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">Status:</h3>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
-    height="165"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Yonas-Wg&theme=python-dark" 
+    width="360"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas-Wg&layout=compact&theme=radical&langs_count=8" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas-Wg&layout=compact&theme=tokyonight" 
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&theme=github_dark&show_icons=true&hide_border=false&count_private=true" 
+    width="340"
   />
 </p>
 
