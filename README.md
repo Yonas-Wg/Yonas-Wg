@@ -34,12 +34,7 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&theme=github_dark&show_icons=true&hide_border=false&count_private=true" 
-    width="340"
-  />
-</p>
+
 
 
 ---
