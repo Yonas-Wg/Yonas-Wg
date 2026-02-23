@@ -23,6 +23,27 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,vue,nuxt,redux,python,mysql,postgres,docker,git,github,jira,figma,postman,npm,tailwind" />
 </p>
 
+---
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&show_icons=true&theme=tokyonight&count_private=true" 
+    height="170"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Yonas-Wg&theme=tokyonight" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas-Wg&layout=compact&theme=tokyonight" 
+    height="170"
+  />
+</p>
 
 
 ---
