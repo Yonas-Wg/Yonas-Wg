@@ -2,9 +2,6 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  📫 Reach me at: <b>yoniman.wg@gmail.com</b>
-</p>
-<p align="center">
   <a href="https://linkedin.com/in/yonas-woldegerima" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" />
   </a>
