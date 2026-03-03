@@ -1,4 +1,3 @@
-
 <h3 align="center">Passionate Full Stack Developer | Building Scalable Web Applications</h3>
 
 <p align="center">
@@ -7,29 +6,26 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <!-- Left: Status -->
-    <td align="left">
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com?user=Yonas-Wg&theme=python-dark&hide_border=true" 
-        height="120"
-      />
-    </td>
+<h3 align="center">Connect with me</h3>
 
-    <!-- Right: Connect + Visitor Count -->
-    <td align="right">
-      <a href="https://linkedin.com/in/yonas-woldegerima" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50" />
-      </a>
+<p align="center">
+  <a href="https://linkedin.com/in/yonas-woldegerima" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://komarev.com/ghpvc/?username=Yonas-Wg&label=Profile%20Views&color=blueviolet&style=flat" 
+    alt="profile views"
+  />
+</p>
 
-      &nbsp;&nbsp;&nbsp;
+---
 
-      <img 
-        src="https://komarev.com/ghpvc/?username=Yonas-Wg&label=Profile%20Views&color=blueviolet&style=flat" 
-        alt="profile views"
-        height="50"
-      />
-    </td>
-  </tr>
-</table>
+<h3 align="center">Status:</h3>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Yonas-Wg&theme=python-dark" 
+    width="360"
+  />
+</p>
