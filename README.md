@@ -1,3 +1,6 @@
+
+<h3 align="center">Passionate Full Stack Developer | Building Scalable Web Applications</h3>
+
 ---
 
 <h3 align="center">Connect & Stats</h3>
