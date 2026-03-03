@@ -1,4 +1,4 @@
-<h3 align="center">Passionate Full Stack Developer | Building Scalable Web Applications</h3>
+
 
 <p align="center">
   📫 Reach me at: <b>yoniman.wg@gmail.com</b>
