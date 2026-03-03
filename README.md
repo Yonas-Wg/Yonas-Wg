@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yonas</h1>
 <h3 align="center">Passionate Full Stack Developer | Building Scalable Web Applications</h3>
 
 <p align="center">
@@ -13,6 +12,13 @@
   <a href="https://linkedin.com/in/yonas-woldegerima" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" />
   </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <img 
+    src="https://komarev.com/ghpvc/?username=Yonas-Wg&label=Profile%20Views&color=blueviolet&style=flat" 
+    alt="profile views"
+  />
 </p>
 
 ---
@@ -31,19 +37,5 @@
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Yonas-Wg&theme=python-dark" 
     width="360"
-  />
-</p>
-
-
-
-
----
-
-<h3 align="center">Visitor Count</h3>
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Yonas-Wg&label=Profile%20Views&color=blueviolet&style=flat" 
-    alt="profile views" 
   />
 </p>
