@@ -2,14 +2,11 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Yonas-Wg&theme=python-dark" 
-    width="400"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Yonas-Wg&theme=tokyonight" 
+    height="170"
   />
-</p>
-
-<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Yonas-Wg&show_icons=true&theme=tokyonight" 
-    width="400"
+    height="170"
   />
 </p>
