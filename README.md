@@ -49,5 +49,5 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yonas-Wg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yonas-Wg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="300" />
 </p>
