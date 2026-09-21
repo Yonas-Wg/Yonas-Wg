@@ -24,7 +24,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Lovable](https://img.shields.io/badge/Lovable-F7DF1E?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-F05032?style=for-the-badge)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000000)
 ![Postman](https://img.shields.io/badge/Postman-412991?style=for-the-badge&logo=postman&logoColor=white)
