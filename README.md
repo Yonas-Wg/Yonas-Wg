@@ -35,4 +35,3 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3776AB?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-3776AB?style=for-the-badge&logo=playwright&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-3776AB?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white)
