@@ -6,7 +6,7 @@
 ### Frontend
 ![React](https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-3776AB?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-3776AB?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vue.js](https://img.shields.io/badge/Vue.js-3776AB?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-3776AB?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3776AB?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-3776AB?style=for-the-badge&logo=redux&logoColor=white)
