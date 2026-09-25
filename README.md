@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Yonas 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=220&section=header&text=Yonas&fontSize=55&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-6eb5-4f7f-9cb3-1f2f5dcb3c6d.gif" width="450" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding"/>
 </p>
 
 ## Tech
