@@ -1,7 +1,7 @@
 
 ##  Technologies I Work With
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,js,ts,nodejs,nestjs,postgres,supabase,tailwind,redux,docker,git,github" />
 </p>
 
