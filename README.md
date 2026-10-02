@@ -7,8 +7,8 @@
 
 ##  GitHub Stats
 
-<p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas-Wg&layout=compact&theme=transparent" />
+<p align="left">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas-Wg&layout=compact&theme=transparent" />
 </p>
 
 
