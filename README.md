@@ -1,5 +1,3 @@
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,nestjs,postgres,supabase,tailwind,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxt,nodejs,nestjs,ts,postgres,supabase,prisma,tailwind,vercel,git,github,postman,figma,jest" />
 </p>
-
-
