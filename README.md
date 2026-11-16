@@ -1,5 +1,21 @@
-<h3 align="center">Tech Stack</h3>
+<h3>Technical Expertise</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxt,ts,js,nodejs,nestjs,postgres,supabase,prisma,tailwind,vercel,git,github,postman&perline=8" />
+<p>
+  <strong>Frontend:</strong>
+  Next.js, React, Vue.js, Nuxt.js, TypeScript, Tailwind CSS
+</p>
+
+<p>
+  <strong>Backend:</strong>
+  Node.js, NestJS, REST APIs
+</p>
+
+<p>
+  <strong>Database & ORM:</strong>
+  PostgreSQL, Supabase, Prisma
+</p>
+
+<p>
+  <strong>Development & Deployment:</strong>
+  Git, GitHub Actions, Docker, Vercel, Postman
 </p>
